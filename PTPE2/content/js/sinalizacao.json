@@ -1,0 +1,52 @@
+{
+	"sinalizacao" : [
+		{
+			"imag":"content/img/left.png",
+			"descricao":"Proibição de virar a esquerda"
+		},
+		{
+			"imag":"content/img/prohibited-way.png",
+			"descricao":"Sentido proibido"
+		},
+		{
+			"imag":"content/img/rotunda.png",
+			"descricao":"Aproximação de uma rotunda"
+		},
+		{
+			"imag":"content/img/parking.png",
+			"descricao":"Estacionamento"
+		},
+		{
+			"imag":"content/img/no-trucks.png",
+			"descricao":"Proibição de veículos pesados"
+		},
+		{
+			"imag":"content/img/roundabout.png",
+			"descricao":"Aproximação de uma rotunda"
+		},
+		{
+			"imag":"content/img/paragem.png",
+			"descricao":"Paragem proibida"
+		},
+		{
+			"imag":"content/img/no-parking.png",
+			"descricao":"Parque"
+		},
+		{
+			"imag":"content/img/rock.png",
+			"descricao":"Aproximação de com risco de quedas de pedra"
+		},
+		{
+			"imag":"content/img/prioridade.png",
+			"descricao":"Prioridade a todos veículos"
+		},
+		{
+			"imag":"content/img/stop.png",
+			"descricao":"Paragem Obrigatoria"
+		},
+		{
+			"imag":"content/img/speed-limit.png",
+			"descricao":"Proibição de ultrapassar a velocidade maxima"
+		}
+	]
+}

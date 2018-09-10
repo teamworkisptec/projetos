@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Login</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0" />
+        <link rel="stylesheet" href="content/bootstrap/css/bootstrap.min.css">
+        <script src="content/bootstrap/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="content/css/style_login.css"/>		
+	</head>
+
+    <body>
+        <div class="container">
+            <div class="loginbox"> 
+                 <img class="user" src="content/img/policia-transito-1-1.png">
+                 <h2></h2>
+                <form action="#" method="post">
+                    <p for="nomedousuario">NIP:</p> 
+                    <input type="text" id="item1" name="nomedousario" value="NIP"><strong><span style=" color:red;" id="texto1" maxlength=5 ></span></strong>
+                    <p for="nomedousuario">Password:</p> 
+                    <input type="password" name="password" id="item2" placeholder="......"><strong><span style=" color:red;" id="texto2" ></span></strong>
+                    <input type="button" value="Sign in" placeholder="Sign in" onclick="validacao()">
+                </form> 
+            </div>
+        </div>    
+		<script src="content/js/login.js"></script>
+		      
+	</body>
+	
+</html>

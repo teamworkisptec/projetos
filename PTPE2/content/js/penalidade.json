@@ -1,0 +1,168 @@
+{
+    "penalidade":[
+        {
+            "titulo":"Penalidade por Infracções às Disposições do Presente do Código",
+            "artigo":[
+                {
+                    "numero":"171",
+                    "nome":"Infracções aos limites de velocidade e outra disposições comuns de trânsito"
+                }
+            ],
+            "paragrafo":[
+                {
+                    "numero":"1",
+                    "multa":[
+                        {
+                            "de":"180",
+                            "a":"900"
+                        }
+                    ]
+                    
+                },
+                {
+                    "numero":"2",
+                    "multa":[
+                        {
+                            "de":"60",
+                            "a":"300"
+                        }
+                    ]
+                    
+                },
+                {
+                    "numero":"3",
+                    "multa":[
+                        {
+                            "de":"60",
+                            "a":"300"
+                        }
+                    ]
+                    
+                },
+                {
+                    "numero":"8",
+                    "multa":[
+                        {
+                            "de":"60",
+                            "a":"300"
+                        }
+                    ]
+                    
+                },
+                {
+                    "numero":"16",
+                    "multa":[
+                        {
+                            "de":"120",
+                            "a":"600"
+                        }
+                    ]
+                    
+                },
+                {
+                    "numero":"17",
+                    "multa":[
+                        {
+                            "de":"120",
+                            "a":"600"
+                        }
+                    ]
+                    
+                }
+                
+            ]
+            
+        },
+        {
+            "titulo":"Penalidade por Infracções às Disposições do Presente do Código",
+            "artigo":[
+                {
+                    "numero":"170",
+                    "nome":"Infracções às normas gerais de circulação e conduta"
+                }
+            ],
+            "paragrafo":[
+                {
+                    "numero":"18",
+                    "multa":[
+                        {
+                            "de":"60",
+                            "a":"300"
+                        }
+                    ]
+                },
+                {
+                    "numero":"21",
+                    "multa":[
+                        {
+                            "de":"120",
+                            "a":"600"
+                        }
+                    ]
+                }
+            ]
+            
+        },
+        {
+            "titulo":"Penalidade por Infracções às Disposições do Presente do Código",
+            "artigo":[
+                {
+                    "numero":"172",
+                    "nome":"Infracções à paragem e estacionamento de veículos e transporte de pessoas e carga"
+                }
+            ],
+            "paragrafo":[
+                {
+                    "numero":"2",
+                    "multa":[
+                        {
+                            "de":"60",
+                            "a":"300"
+                        }
+                    ]
+                }
+            ]
+            
+        },
+        {
+            "titulo":"Penalidade por Infracções às Disposições do Presente do Código",
+            "artigo":[
+                {
+                    "numero":"174",
+                    "nome":"Infracções à utilização de luzes, transportes especiais e á má utilização de certas vias"
+                }
+            ],
+            "paragrafo":[
+                {
+                    "numero":"11",
+                    "multa":[
+                        {
+                            "de":"90",
+                            "a":"400"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "titulo":"Penalidade por Infracções às Disposições do Presente do Código",
+            "artigo":[
+                {
+                    "numero":"175",
+                    "nome":"Infracções às regras especiais de segurança na condução"
+                }
+            ],
+            "paragrafo":[
+                {
+                    "numero":"15",
+                    "multa":[
+                        {
+                            "de":"60",
+                            "a":"300"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

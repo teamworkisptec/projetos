@@ -1,0 +1,105 @@
+<!Doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+         <meta name="Viewport" content="initial-scale=1, width=width-divice">
+        <link href="content/css/style_sinal.css" type="text/css" rel="stylesheet">
+        <link rel="stylesheet" href="content/bootstrap/css/bootstrap.min.css">
+        <script type="text/javascript" src="content/bootstrap/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="content/css/jquery-ui.css">
+	</head>
+	
+	<body class="center">
+        <nav class="navbar navbar-dark bg-primary">
+            <div class="navbar-header">
+                   <a class="navbar-brand" href="index.html">
+                        <span class="glyphicon glyphicon-arrow-left"></span> 
+                   </a>   
+                    <p class="navbar-text">Sinalização</p>
+            </div>
+        </nav> 
+        <div class="container">
+            <div class="row">
+            <div class="col">
+                <input id="textoBusca" type="text" placeholder="Pesquise aqui" class="form-control busca" > 
+            </div>
+            <div class="w-100"></div>
+            <br>
+
+            <div class="col" align="center">
+                <button class="btn btn-primary btn-busca" id="btn-buscar">Buscar</button>
+            </div>
+            <br>
+            <div class=" panel-default" id="caixa_Texto">
+                <div class="panel-body" id="showlinks"></div>
+            </div>
+            <br>
+
+            <section class="panel panel-default">
+                <div class="panel-body">
+
+                    <table class="table table-striped">
+                        <thead>
+                            <th>Sinal</th>
+                            <th>Nome</th>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><img src="content/img/left.png"></td>
+                                <td>Proibição de virar a esquerda</td>
+                            </tr>
+                            <tr>
+                                <td><img src="content/img/prohibited-way.png"></td>
+                                <td>Sentido proibido</td>
+                            </tr>
+                            <tr>
+                                <td><img src="content/img/rotunda.png"></td>
+                                <td>Aproximação de uma rotunda</td>
+                            </tr>
+                            <tr>
+                                <td><img src="content/img/parking.png"></td>
+                                <td>Estacionamento</td>
+                            </tr> 
+                            <tr>
+                                <td><img src="content/img/no-trucks.png"></td>
+                                <td>Proibição de veículos pesados</td>
+                            </tr> 
+                            <tr>
+                                <td><img src="content/img/roundabout.png"></td>
+                                <td>Aproximação de uma rotunda</td>
+                            </tr> 
+                            <tr>
+                                <td><img src="content/img/paragem.png"></td>
+                                <td>Proibição de virar a esquerda</td>
+                            </tr> 
+                            <tr>
+                                <td><img src="content/img/no-parking.png"></td>
+                                <td>Proibição de virar a esquerda</td>
+                            </tr>
+                            <tr>
+                                <td><img src="content/img/rock.png"></td>
+                                <td>Proibição de virar a esquerda</td>
+                            </tr> 
+                            <tr>
+                                <td><img src="content/img/prioridade.png"></td>
+                                <td>Proibição de virar a esquerda</td>
+                            </tr> 
+                            <tr>
+                                <td><img src="content/img/stop.png"></td>
+                                <td>Proibição de virar a esquerda</td>
+                            </tr> 
+                                <tr>
+                                    <td><img src="content/img/speed-limit.png"></td>
+                                    <td>Proibição de virar a esquerda</td>
+                                </tr>
+                            </tbody>
+                        </table> 
+                    </div>
+                </section>
+            </div>
+        </div>
+        <script src="content/js/jquery.js"></script>
+        <script src="content/js/jquery-ui.js"></script>
+        <script src="content/js/consulta_sinal.js"></script>
+	</body>
+</html>  

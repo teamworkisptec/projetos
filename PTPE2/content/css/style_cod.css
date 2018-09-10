@@ -1,0 +1,98 @@
+body, html {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px; 
+}
+#seletor{
+    margin-top: 15px;
+}
+
+select{
+    float: right;
+    width: 150px;
+}
+p{
+    letter-spacing: normal;
+}
+
+.titulo, .artigo, .paragrafo, .penalidade{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+@media(max-width:420px){
+    .center{
+        background-color:  #eee;
+    }
+    .navbar-header{
+        opacity: 0.9;
+    }
+    .navbar-brand{
+        display: inline;
+    }
+    .navbar-dark .glyphicon-arrow-left{
+        color: #fff !important;
+        font-size: 1.2em;
+    }
+    .navbar-header .navbar-text{
+        color: #fff !important;
+        font-size: 1.2em;
+    }
+    .btn-busca{
+        margin: 3%;
+    }
+    .linha{
+        background-color: #000;
+        height: 1px;
+        margin: 5%;
+    }
+    .panel-body{
+        text-align: justify;
+    }
+   
+    .panel-body h5{
+        text-align: center;
+    }
+    .col{
+        padding: 0 5% 0;
+    }
+    .titulo, .artigo, .paragrafo, .penalidade{
+        text-align: center;
+    }
+    .paragrafo ul{
+        list-style-type: none;
+    }
+    
+}
+@media(min-width:720px){
+     .center{
+        background-color:  #eee;
+    }
+    .navbar{
+        opacity: 0.9;
+        
+    }
+     .btn-busca{
+        margin: 3%;
+    }
+    .navbar-dark .glyphicon-arrow-left{
+        color: #fff !important;
+        font-size: 1.2em;
+    }
+    .linha{
+        color: #fff;
+        background-color: #fff;
+        height: 2px;
+    }
+    .titulo, .artigo, .paragrafo, .penalidade{
+        text-align: center;
+    }
+    .paragrafo ul{
+        list-style-type: none;
+    }
+}

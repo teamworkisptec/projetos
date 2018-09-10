@@ -1,0 +1,225 @@
+{
+    "codigo" : [
+        {
+            "titulo":[
+                {
+                    "nome":"Trânsito de veículos e animais",
+                    "capitulo":
+                    [
+                        {
+                            "numero":"1",
+                            "nome":"Disposições comuns",
+                            "artigo":
+                            [
+                                {
+                                    "numero":"24",
+                                    "nome":"Regulação da velocidade",
+                                    "paragrafo":
+                                    [
+                                        {
+					                       "numero":"1",
+					                       "texto":" A velocidade deve ser regulada de modo a que atendendo ás características e ao estado da via e do veículo,à carga transportada, às condições meteorológicas ou ambientais,à intensidade do trânsito e a quaisquer outras circunstâncias relevantes, o condutor possa, em condições de segurança, executar quaisquer manobras necessárias, especialmente fazer parar o veículo no espaço livre e vsível à sua frente."
+                                        },
+				                        {
+					                       "numero":"2",
+					                       "texto":"O condutor não deve diminuir subitamente a velocidade do veículo sem previamente se certificar de que daí não resulta perigo para os outros utentes da via, particularmente para os condutores do veículos que o sigam, salvo em caso de perigo iminente."
+				                        }
+                                    ],
+                                    "penalidade":
+                                    [
+                                        {
+                                            "artigonumero":"171",
+                                            "paragrafonumero":"1"
+                                        }
+                                    ]                                    
+                                },
+                                {
+                                    "numero":"17",
+                                    "nome":"Bermas e passeios",
+                                    "paragrafo":
+                                    [
+                                        {
+					                       "numero":"1",
+					                       "texto":"Os veículos só podem atravessar bermas ou passeios desde que o acesso aos prédios o exija, salvo as excepções previstas em regulamento local."
+                                        }
+                                    ],
+                                    "penalidade":[
+                                        {
+                                            "artigonumero":"170",
+                                            "paragrafonumero":"18"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero":"20",
+                                    "nome":"Sinalização de manobras",
+                                    "paragrafo":
+                                    [
+                                        {
+					                       "numero":"1",
+					                       "texto":"Sempre que o condutor pretenda iniciar uma ultrapassagem, reduzir a velocidade, mudar de direcção ou de via de trânsito ou inverter o sentido de marcha, deve assinalar com a necessária antecedência a sua intenção."
+                                        },
+				                        {
+					                       "numero":"2",
+					                       "texto":"O sinal deve manter-se enquanto se efectua a manobra a cessar logo que ela esteja concluída."
+				                        }
+                                    ],
+                                    "penalidade":[
+                                        {
+                                            "artigonumero":"170",
+                                            "paragrafonumero":"21"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero":"25",
+                                    "nome":"Condições que exigem velocidade moderada",
+                                    "paragrafo":[
+                                        {
+					                       "numero":"1",
+					                       "texto":"A velocidade deve ser moderada, nos seguintes casos: a) à aproximação de passagens assinaladas na faixa de rodagem para a travessia de peões; b) à aproximação de escolas, hospitais, creches e estabelecimentos similares, quando devidamente sinalizados; c) nas localidades ou vias marginadas por edificações; d) à aproximação de aglomeração de pessoas ou animais; e) nas pontes, túneis e passagens de nível; h) nos troços de via em mau estado de conservação, molhadas, enlameados ou que ofereçam precárias condições de aderência; i) nos locais assinalados com sinias de perigo"
+                                        }
+                                    ],
+                                    "penalidade":[
+                                        {
+                                            "artigonumero":"171",
+                                            "paragrafonumero":"2"
+
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero":"26",
+                                    "nome":"Trânsito em marcha lenta",
+                                    "paragrafo":[
+                                        {
+					                       "numero":"1",
+					                       "texto":"O condutor não deve transitar em marcha cuja lentidão cause embaraço injustificado aos restantes utentes da via sem causa que o justifique."
+                                        }
+                                    ],
+                                    "penalidade":[
+                                        {
+                                            "artigonumero":"171",
+                                            "paragrafonumero":"3"
+                                        }
+                                    ]   
+                                },
+                                {
+                                    "numero":"28",
+                                    "nome":"Limites especiais de velocidade",
+                                    "paragrafo":
+                                        [
+                                            {
+					                           "numero":"1",
+					                           "texto":"Quando a intensidade do trânsito ou as característica das vias o aconselhem podem ser fixados, para vigorar em certas vias, troços de via ou periodos:<br>a) limites minimos de velocidade instantânea; <br>b) limites maximos de velocidade instantânea inferiores ou superiores aos estabelecidos no numero 1 do artigo anterior.."
+                                            },
+                                            {
+					                           "numero":"2",
+					                           "texto":"Os limites referidos no número anterior devem ser sinalizados ou, se temporários e não sendo possível a sinalização, divulgados pelos meios de comunicação social, afixação de painéis de informação ou outro meio adequado."
+                                            }
+                                        ],
+                                    "penalidade":[
+                                        {
+                                            "artigonumero":"171",
+                                            "paragrafonumero":"8"
+                                        }
+                                    ] 
+                                },
+                                {
+                                    "numero":"35",
+                                    "nome":"Disposições comuns",
+                                    "paragrafo":[
+                                        {
+					                       "numero":"1",
+					                       "texto":"Só podem ser efectuados as manobras de ultrapasagem, mudança de direcção, inversão do sentido de marcha e marcha atrás, em local sinalizado e por forma que sa sua realização não reulte perigo ou embaraço para o transito."
+                                        }
+                                    ],
+                                    "penalidade":[
+                                        {   
+                                            "artigonumero":"171",
+                                            "paragrafonumero":"16"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero":"36",
+                                    "nome":"Regra geral",
+                                    "paragrafo":[
+                                        {
+					                       "numero":"1",
+					                       "texto":"O condutor deve fazer a ultrapassagem pela esquerda."
+                                        }
+                                    ],
+                                    "penalidade":[
+                                        {
+                                            "artigonumero":"171",
+                                            "paragrafonumero":"17"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero":"49",
+                                    "nome":"Proibição de paragem ou estacionamento",
+                                    "paragrafo":
+                                    [
+                                        {
+					                       "numero":"1",
+					                       "texto":" É proibido parar ou estacionar: a) nas pontes, rotundas, túneis, passagens de níve, passagens inferiores ou superiores e em todos os lugares de insuficiente visibilidade; b) a menos de 5 m para um e outro lado dos cruzamentos ou entroncamentos, sem prejuízo do disposto na alínea e) do presente número e na alínea a) do numero 2; c) a menos de 3 m ou 15 m para um e outro lado dos sinais indicativos da paragem dos veículos de transporte colectivo de passageiros, consoante transitem ou não sobre carris; d) a menos de 5 m antes e nas passagens assinaladas para a travessia de peões ou de velocidades; e) a menos de 20 m antes dos sinais luminosos colocados à entrada dos cruzamentos e entroncamentos; f) a menos de 20 m antes dos sinais verticais ou luminosos, se a altura dos veículos incluindo a respectiva carga os encobrir; g) os veículos que efectuem transporte de mercadorias perigosas não podem parar ou estacionar a menos de 10 m das passagens de nível; h) na faixa de rodagem sempre que esteja sinalizafa com linha longitudinal continua e a distância entre esta e o veículo seja inferior a 3 m." 
+                                        },
+                                        {
+					                       "numero":"2",
+					                       "texto":"Fora das localidades é ainda proibido parar ou estacionar: a) a menos de 50 m para um e outro lado dos cruzamentos, entroncamentos, curvas ou lombas de visibilidade reduzida; b) nas faixas de rodagem, sendo possível a paragem ou estacionamento fora delas." 
+                                        }
+                                    ],
+                                    "penalidade":[
+                                        {
+                                            "artigonumero":"172",
+                                            "paragrafonumero":"2"
+                                        }
+                                    ] 
+                                },
+                                {
+                                    "numero":"71",
+                                    "nome":"Estacionamento proibido",
+                                    "paragrafo":[
+                                        {
+					                       "numero":"1",
+					                       "texto":"É proibido estacionar nos parques e zonas de estacionamento nos seguintes casos: a) veículos destinados à venda de quaisquer artigos ou à publicidade de qualquer natureza; b) veículos utilizados para transporte públicos, salvo excepções devidamente autorizadas; c) veículos de categorias diferentes daquelas a que o parque ou a zona de estacionamento autorizadas; d) por tempo superior ao estacionamento ou sem o pagamento da taxa fixada nos termos do numero <a>2 artigo</a> anterior"
+                                        }
+                                    ],
+                                    "penalidade":[
+                                        {
+                                            "artigonumero":"174",
+                                            "paragrafonumero":"11"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero":"90",
+                                    "nome":"Transporte de passageiros",
+                                    "paragrafo":[
+                                        {
+					                       "numero":"1",
+					                       "texto":"Nos motociclos e ciclomotores é proibido o transporte de passageiros de idade inferior a sete anos, salvo tratando-se de veículos providos de caixa rígida não destinada apenas ao transporte de carga."
+                                        },
+                                        {
+                                            "numero":"2",
+                                            "texto":"Nos velocípedes é proibido o transporte de passageiros."
+                                        }
+                                    ],
+                                    "penalidade":[
+                                        {
+                                            "artigonumero":"175",
+                                            "paragrafonumero":"15"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+            
+        }
+    ]
+}

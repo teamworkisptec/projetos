@@ -1,0 +1,49 @@
+<! Doctype html>
+<html lang="en">
+	<head>
+        <title>Conversão</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="content/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="content/css/style_multas.css">
+    
+    </head>
+		
+		<body>
+             <nav class="navbar navbar-dark bg-primary">
+                <div class="navbar-header">
+                   <a class="navbar-brand" href="index.html">
+                        <span class="glyphicon glyphicon-arrow-left"></span> 
+                   </a>   
+                    <p class="navbar-text">Conversão</p>
+                </div>
+             </nav> 
+            <div class="container">
+                <h3>Conversão de ucf </h3>
+                <form class="form-horizontal" action="#">
+                    <div class="form-group">
+                        <label class="control-label col-sm-2">Multa em ucf:</label>
+                        <div class="col-sm-10">
+                             <input id="ucf" type="number" placeholder="Digite a multa em ucf" class="form-control">
+                        </div>
+                    </div>
+                    
+                    <div class="col-sm-offset-2 col-sm-10">
+                         <button type="submit" class="btn btn-default" onclick=functionConversao()>Converter em Kwanzas</button>
+                    </div>
+                    
+                    <div id="show" class="col-sm-offset-2 col-sm-10">
+                        
+                    </div>
+                   
+                </form>
+            
+            </div>
+                 
+            <footer>
+               
+                <script src="content/js/jquery.js"></script>
+                <script type="text/javascript" src="content/js/conversao.js"></script>
+            </footer>
+		</body>
+</html>
